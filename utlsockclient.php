@@ -1,8 +1,8 @@
 <?php  
 
 /**********************************************************
-/// @file   utlHashtable.php
-/// @brief  PHP实现的哈希表工具类
+/// @file   utlsockclient.php
+/// @brief  PHP实现的SOCKET客户端类
 /// @date   2019-06-03
 /// @author elicl <elicl@163.com>
 /// @par    说明
