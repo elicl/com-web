@@ -9,7 +9,7 @@
 // 初始化32位CRC的数组
 var table = ( function() 
 {
-  const tab = Array( 256 );
+  tab = Array( 256 );
 	for( var i = 0; i < 256; i++ )
 	{
 		var coeff = i;
